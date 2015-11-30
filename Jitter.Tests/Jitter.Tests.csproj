@@ -87,6 +87,8 @@
     <Compile Include="Models\JotTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\HomeControllerTest.cs" />
+    <Compile Include="JitterUserTests.cs" />
+    <Compile Include="JotTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.config" />
